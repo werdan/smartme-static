@@ -11,6 +11,9 @@ footer, header, nav, article, aside, time, section, article{display:block}
 
 #footer ul, #header ul, .sponsors ul, .watch ul, .partners ul, .products ul, #slider-events ul, .contact-persons, .shop ul, .events-list ul, .way-pay ul, .master-class header ul, .plan-class ol, .masters-list ul, .masters, .next-classes, .conducted-class ul{list-style:none}
 
+.youtube {
+	margin-top: 40px;
+}
 
 /*   end global reset  */
 html{height:100%}
